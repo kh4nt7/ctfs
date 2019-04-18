@@ -6,6 +6,8 @@ Every journey starts on step one
 nc p1.tjctf.org 8009
 ```
 
+### Solution
+___
 If we connect to the p1.tjctf.org at port 8009 we will receive something like this
 ```bash
 root@pwnhub:~/ctfs/tjctf2019/journey# nc p1.tjctf.org 8009
