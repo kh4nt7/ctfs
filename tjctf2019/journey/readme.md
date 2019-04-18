@@ -31,7 +31,7 @@ Pseudo code is like this <br/>
 4. Extract the encounter word
 5. Receive second line until we could input
 6. Send the word back
-7. Loop :D
+7. Loop from 2 to 6:D
 <br/>
 
 Here is my [code]()
