@@ -34,4 +34,4 @@ Pseudo code is like this <br/>
 7. Loop from 2 to 6:D
 <br/>
 
-Here is my [code]()
+Here is my [code](https://github.com/kh4nt99/ctfs/blob/master/tjctf2019/journey/solution.py)
