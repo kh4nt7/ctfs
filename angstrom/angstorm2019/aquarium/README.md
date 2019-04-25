@@ -53,5 +53,9 @@ Stopped reason: SIGSEGV
 yay we have control over rip.<br/>
 then we pack the address of flag function after the offset where rip is controlled.<br/>
 
+```bash
+team3443@actf:/problems/2019/aquarium$ python /tmp/exploit.py | ./aquarium
+```
+
 ### Flag
 >actf{overflowed_more_than_just_a_fish_tank}
